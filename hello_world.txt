@@ -1,3 +1,4 @@
 Let's test it!
 And now with an update!
 Global user_name issue
+Global user_email issue 
